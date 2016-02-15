@@ -1,5 +1,8 @@
 #Voxel Engine
 ##Realtime Voxel landscape engine in Processing
+![preview](preview.gif?raw=true "preview")
+
+
 
 Inspired by Carpet Landscapes http://vacuumflowers.com/weblog/?p=347
 

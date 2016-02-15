@@ -14,7 +14,7 @@ class World{
 								height*.5),
 							0,					// ALPHA
 							this.map.WIDTH*.5, 	// DISTANCE
-							180, 				// FOV
+							114, 				// FOV
 							false);				// WALKING
 
 		this.renderer = new Renderer(

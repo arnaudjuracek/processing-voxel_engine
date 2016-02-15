@@ -10,7 +10,7 @@ PGraphics sky;
 String MAP_FOLDER = "commanche_maps";
 
 void setup(){
-	size(displayWidth - 40, int(displayHeight*.75));
+	size(1000, 600);
 	world = new World(1);
 
 	sky = createGraphics(width, height);
